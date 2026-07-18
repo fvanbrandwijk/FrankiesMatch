@@ -1,0 +1,6 @@
+{
+  "name": "FrankieMatch",
+  "description": "Zoek films en series, ontdek platforms en geef ze een cijfer!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
